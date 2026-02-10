@@ -1,4 +1,4 @@
-{
+browsers/chrome_android.json{
   "browsers": {
     "chrome_android": {
       "name": "Chrome Android",
